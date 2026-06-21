@@ -24,4 +24,4 @@ An interactive rule-based communication application. It evaluates user message e
 ### Running the Code Locally
 1. Clone the repository directly to your workspace:
    ```bash
-   git clone [https://github.com/murtazakhanpro/CodeAlpha_Task.git](https://github.com/murtazakhanpro/CodeAlpha_Task.git)
+   git clone [https://github.com/murtazakhanpro/CodeAlpha_Task.git]
